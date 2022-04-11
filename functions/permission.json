@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudcourseworkgroup-21",
+  "private_key_id": "a6532d4eb102f4030b024624da17224ded55fe7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXm5wFXXzhziSj\nP1nko1+iR2btxa5G+GR3YUKeHGxlixEPZl4MIjlLrJhB6Oq4NkbZbJfXiLT8VBHw\nL8G7BQA7ft++6u56nw/e406tvbyaDawMtO+JY3pugHyfs+wgGvUTIV1YjRWWUdFn\nFb6ec5KrecKJ564C0aCoDyxfCjXsFQMRwx7q4oKENw6iQd3eo1r4/gz3Rrkssgli\nX47S5eM82Hgs6EhIGkIgOB3rQCksoZHZXZJ1xhKpV4MEeY9cu4orodiZCJuSEfpd\nRwWOZvimcMcZLid4LBqQBHUBJuegPB3er7R9hlJZqgc67rlXS1Nx2eT3x6WfqI+6\nRUHhf8ltAgMBAAECggEAJKO0SK2n1TCLNTLFyFZdcewcqYEZVciJCzrjrS+EWOQL\nivO77eXFgA7luyQNudhQNhKi/bFpwAOXVDtOcCLMxBQtAchoOxU+8ihwJtgQgRCl\n0GpX65WxjIwb0kLa4YVyTh3Fn/V0zp/WYjnkmAmpXCywgcCOktrTn1oPaKagkn3A\nAVqh8ygOPKDQqijl49G0LoYxvp6zNBvjpnJzcRCa2PByV0HU+sqx5BPPkqBVkEyk\nIoD0ZSgKOIZ86YNCEOmYmuYldWHNPnSDXkO2AdFSyXVYPF8kdVjNQtjYD4W7Ff9o\nYmfWPOmsFYDf+SdjYMcKZf3YJBK6WLoKJlZhH3qhQQKBgQDUhE8tb1IZzXva0/U3\ncFiy/24MOSqorX9EOanxetyYc4AD61DVKj4w2ER8F4pC1nUJW0TRaLFBYPEwRgDb\nFsIwnuKGkVhOWkttzw0QDro1z3txAdnYBdDeXZgRoThcRpbGBWTCLJ2zJHkd60Ng\nn/c8F8of001Qe7w5utmuBk/0jQKBgQC2oN7l45cLtUSFDOHRqep8RBnSW323iboj\n8T50IKsvAmmwBjSVfmADLJ/nlH97w0OIzi8DLDh91uo1Gc6DWEB92jBiSinawzHZ\n199cMus2u6P3xpJ37W8+TckwvN19jy+3v22bKQsx5tMgBeMFHh6MRoZGsQKtmAhy\nFUvsNMygYQKBgHKJEIdDPPNtHLh2je2gHh3yrmPmF4irYTDrBx1/gw6jCTaTh5Ar\nYTNAC8D5ium03YT6bJ+UFhxPXA4RXHq3zFcZ+qpeAULRRV/cPIUP+unvde8U+UyE\n7eo6dS/jPRX2cWIuG/zOwPuAx8oJNtoHvN7lT2lRn5Sl628Nti4ldsgtAoGAKvKh\n+IYRG1vBhViGMnw2/Io3WFTTt7nX4GP3P+/+0ctLd22+J/nUMmroH9m4MS62TxHN\n1H0tu8oywdIT0qeKYw5Qmoy+UwfcTVKK4G/JCNIPuVElWLaplolMav2/SKvHmPqX\nmAmK7G1P8RPxU17F6E8dfLpb2t8J/WostJumE4ECgYA8f5eR6FGXn4ohU87eOWjy\nfg8wokpUp8aGXwfnbhBhKsI5bvkLCvT6UNH6ITGbge9vBdV5wA/Zlb2OD8n9FIKY\niaiNSdT44zGUfBo+BsqyFZADIQWyreEwMBuyZuL0nwVqn6k6CMit6Bq8xjoP/2+V\nzePp4Z7rOwbyhdEnXeLgyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-km22u@cloudcourseworkgroup-21.iam.gserviceaccount.com",
+  "client_id": "115451838145606067917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-km22u%40cloudcourseworkgroup-21.iam.gserviceaccount.com"
+}
